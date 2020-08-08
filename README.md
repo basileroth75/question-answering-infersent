@@ -1,5 +1,5 @@
 # question-answering-infersent
-This project was done during the class MTI830. 
+This project was done during the class MTI830 at ETS in Montreal.
 
 The idea is from its authors Basile Roth and Brice Brousseau-Rigaudie and was implemented by themselves.
 
